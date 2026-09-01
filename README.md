@@ -2,10 +2,6 @@
 
 직접 작성하고 검증한 알고리즘 문제 풀이를 공개하는 저장소입니다.
 
-## LeetCode
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/LeaveMeTheFxckAlone?theme=light,dark&font=Inter)](https://leetcode.com/u/LeaveMeTheFxckAlone/)
-
 ## Contents
 
 - `boj/`: Baekjoon Online Judge solutions
